@@ -1,1 +1,81 @@
-
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.container {
+    border: 2px solid #808080;
+    padding: 10px;
+    margin: 10px auto;
+}
+div {
+    display: block;
+}
+.deepskyblue {
+    background-color: #00bfff;
+    color: #fff;
+}
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.royalblue {
+    background-color: #4169e1;
+    color: #fff;
+}
+.orange {
+    background-color: #ffa500;
+    color: #fff;
+}
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+.rubik {
+    font-family: 'rubik', sans-serif;
+}
+.josefin-sans {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.barlow {
+    font-family: 'Barlow', sans-serif;
+}
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.regular {
+    font-style: normal;
+}
+.bold {
+    font-weight: 700;
+}
+.italic {
+    font-style: italic;
+}
+p {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700px;
+    font-size: 26px;
+}
+h2 {
+    font-family: "Barlow", sans-serif;
+    font-weight: 500px;
+    font-size: 18px;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
